@@ -7,6 +7,7 @@ name = "pypi"
 django = "*"
 faker = "*"
 numpy = "*"
+djangorestframework = "*"
 
 [dev-packages]
 
