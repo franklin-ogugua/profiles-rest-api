@@ -55,4 +55,6 @@ class UserProfile(AbstractBaseUser, PermissionsMixin):
         """Return string representation of a user"""
         return self.email
 
+        
+
     
